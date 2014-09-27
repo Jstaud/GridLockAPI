@@ -1,4 +1,3 @@
-GridLockAPI
-===========
+# gridlock
 
-The heart of GridLock Services
+a [Sails](http://sailsjs.org) application
